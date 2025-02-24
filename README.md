@@ -94,36 +94,6 @@ Con dati le cui distribuzioni non sono esponenziali, e a partire da un nuovo ist
 - Tempo medio di sistema e occupazione
 I risultati hanno mostrato una coerenza tra stime empiriche e analitiche.
 
-## Struttura del Repository
-
-├── README.md ├── codice_matlab │ ├── main.m │ ├── simulazione.m │ ├── analisi.m │ └── ... ├── dati │ └── gruppo03.mat ├── report │ ├── Progetto_DES.pdf │ └── Testo_Esercitazione.pdf └── LICENSE
-
-markdown
-Copia
-Modifica
-
-- **codice_matlab/**: Contiene il codice Matlab per la simulazione e l’analisi del sistema.
-- **dati/**: Include il file `gruppo03.mat` con le misurazioni delle durate di vita degli eventi.
-- **report/**: Contiene i documenti PDF della relazione e del testo dell'esercitazione.
-
-## Istruzioni per l'Esecuzione
-
-1. **Prerequisiti:**
-   - MATLAB (versione compatibile con il codice fornito).
-   - Toolbox necessari per la simulazione (es. Statistics and Machine Learning Toolbox).
-
-2. **Esecuzione della Simulazione:**
-   - Aprire MATLAB e navigare nella cartella `codice_matlab`.
-   - Eseguire il file `main.m` per avviare la simulazione completa.
-   - I risultati (grafici, tabelle e file di output) verranno salvati nella cartella `output` o visualizzati direttamente in MATLAB.
-
-3. **Analisi dei Risultati:**
-   - Utilizzare lo script `analisi.m` per riprodurre le stime e confrontare i risultati simulati con quelli analitici.
-
-## Requisiti
-
-- MATLAB (R2021a o superiore consigliato).
-- Adeguata configurazione hardware per simulazioni ad alto numero di eventi (fino a 1.000.000 di eventi).
 
 ## Contributori
 
