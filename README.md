@@ -1,6 +1,6 @@
 # Progetto DES – Sistemi a Eventi Discreti (A.A. 2023/24)
 
-Questo repository contiene il materiale sviluppato dal Gruppo #3 (Brogi Andrea, Burroni Leonardo, Caproni Edoardo, Quintabà Tommaso) per il progetto di Sistemi a Eventi Discreti. Il progetto si focalizza sulla modellizzazione e simulazione di un sistema produttivo costituito da un magazzino (B) e da due macchine in serie (M1 e M2), come descritto nel testo dell'esercitazione.
+Questo repository contiene il materiale sviluppato da Brogi Andrea, Burroni Leonardo, Caproni Edoardo, Quintabà Tommaso per il progetto di Sistemi a Eventi Discreti. Il progetto si focalizza sulla modellizzazione e simulazione di un sistema produttivo costituito da un magazzino (B) e da due macchine in serie (M1 e M2), come descritto nel testo dell'esercitazione.
 
 ## Indice
 
@@ -15,11 +15,7 @@ Questo repository contiene il materiale sviluppato dal Gruppo #3 (Brogi Andrea, 
   - [Punto 6: Verifica della Legge di Little per il Sottosistema Σ](#punto-6-verifica-della-legge-di-little-per-il-sottosistema-Σ)
   - [Punto 7: Analisi della Steady State tramite Distribuzioni Empiriche](#punto-7-analisi-della-steady-state-tramite-distribuzioni-empiriche)
   - [Punto 8: Ripetizione delle Stime con Dati Non Esponenziali](#punto-8-ripetizione-delle-stime-con-dati-non-esponenziali)
-- [Struttura del Repository](#struttura-del-repository)
-- [Istruzioni per l'Esecuzione](#istruzioni-per-lesecuzione)
-- [Requisiti](#requisiti)
 - [Contributori](#contributori)
-- [Licenza](#licenza)
 
 ## Introduzione
 
